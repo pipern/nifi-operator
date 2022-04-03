@@ -1,0 +1,8 @@
+dimensions:
+  - name: nifi
+    values:
+      - 1.15.0
+tests:
+  - name: smoke
+    dimensions:
+      - nifi
